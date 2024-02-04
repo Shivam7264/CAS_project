@@ -1,0 +1,297 @@
+16:06:39.617 [main] INFO  - opened be cognizant page.. 
+16:08:46.943 [main] INFO  - opened be cognizant page.. 
+16:21:35.899 [main] INFO  - opened be cognizant page.. 
+16:28:04.625 [main] INFO  - opened be cognizant page.. 
+16:31:55.309 [main] INFO  - opened be cognizant page.. 
+16:31:55.375 [main] INFO  - clicking the user icon.. 
+16:31:55.375 [main] INFO  - verifyimg the user details.. 
+17:07:49.695 [main] INFO  - opened be cognizant page.. 
+17:14:13.798 [main] INFO  - opened be cognizant page.. 
+17:23:47.750 [main] INFO  - opened be cognizant page.. 
+17:23:47.875 [main] INFO  - clicking the user icon.. 
+17:23:47.937 [main] INFO  - verifyimg the user details.. 
+18:31:25.386 [main] INFO  - opened be cognizant page.. 
+18:31:25.533 [main] INFO  - clicking the user icon.. 
+18:31:25.612 [main] INFO  - verifyimg the user details.. 
+18:39:14.352 [main] INFO  - opened be cognizant page.. 
+18:39:14.512 [main] INFO  - clicking the user icon.. 
+18:39:14.570 [main] INFO  - verifyimg the user details.. 
+20:06:04.511 [main] INFO  - clicked on company header.. 
+20:06:04.646 [main] INFO  - opened be cognizant page.. 
+20:06:34.670 [main] INFO  - opened be cognizant page.. 
+20:07:25.787 [main] INFO  - opened be cognizant page.. 
+20:07:25.893 [main] INFO  - clicking the user icon.. 
+20:07:26.521 [main] INFO  - verifyimg the user details.. 
+20:16:53.172 [main] INFO  - opened be cognizant page.. 
+20:16:53.255 [main] INFO  - clicking the user icon.. 
+20:16:53.287 [main] INFO  - verifyimg the user details.. 
+20:17:49.707 [main] INFO  - clicked on company header.. 
+20:17:49.810 [main] INFO  - opened be cognizant page.. 
+20:18:19.871 [main] INFO  - opened be cognizant page.. 
+20:19:56.830 [main] INFO  - clicked on company header.. 
+20:19:56.957 [main] INFO  - opened be cognizant page.. 
+20:20:26.978 [main] INFO  - opened be cognizant page.. 
+20:21:18.316 [main] INFO  - opened be cognizant page.. 
+20:21:18.360 [main] INFO  - clicking the user icon.. 
+20:21:20.560 [main] INFO  - verifyimg the user details.. 
+20:29:40.876 [main] INFO  - clicked on company header.. 
+20:29:41.008 [main] INFO  - opened be cognizant page.. 
+20:30:11.081 [main] INFO  - opened be cognizant page.. 
+20:42:10.291 [main] INFO  - opened be cognizant page.. 
+20:42:10.396 [main] INFO  - clicking the user icon.. 
+20:47:24.708 [main] INFO  - opened be cognizant page.. 
+20:47:24.771 [main] INFO  - clicking the user icon.. 
+20:47:24.800 [main] INFO  - verifyimg the user details.. 
+20:50:03.363 [main] INFO  - opened be cognizant page.. 
+20:50:03.436 [main] INFO  - clicking the user icon.. 
+20:50:03.460 [main] INFO  - verifyimg the user details.. 
+20:51:37.227 [main] INFO  - opened be cognizant page.. 
+20:51:37.294 [main] INFO  - clicking the user icon.. 
+20:51:37.315 [main] INFO  - verifyimg the user details.. 
+20:53:39.161 [main] INFO  - opened be cognizant page.. 
+20:53:39.221 [main] INFO  - clicking the user icon.. 
+20:53:39.244 [main] INFO  - verifyimg the user details.. 
+21:12:11.922 [main] INFO  - opened be cognizant page.. 
+21:12:11.997 [main] INFO  - clicking the user icon.. 
+21:12:12.029 [main] INFO  - verifyimg the user details.. 
+21:15:23.273 [main] INFO  - opened be cognizant page.. 
+21:15:23.338 [main] INFO  - clicking the user icon.. 
+21:15:23.365 [main] INFO  - verifyimg the user details.. 
+21:16:46.654 [main] INFO  - opened be cognizant page.. 
+21:16:46.735 [main] INFO  - clicking the user icon.. 
+21:16:46.770 [main] INFO  - verifyimg the user details.. 
+21:19:20.665 [main] INFO  - opened be cognizant page.. 
+21:19:20.735 [main] INFO  - clicking the user icon.. 
+21:19:20.769 [main] INFO  - verifyimg the user details.. 
+21:24:02.181 [main] INFO  - opened be cognizant page.. 
+21:24:02.242 [main] INFO  - clicking the user icon.. 
+21:30:24.385 [main] INFO  - opened be cognizant page.. 
+21:30:24.482 [main] INFO  - clicking the user icon.. 
+21:30:24.581 [main] INFO  - verifyimg the user details.. 
+21:54:32.179 [main] INFO  - clicked on company header.. 
+21:54:32.346 [main] INFO  - opened be cognizant page.. 
+21:58:57.007 [main] INFO  - clicked on company header.. 
+21:58:57.160 [main] INFO  - opened be cognizant page.. 
+21:59:27.498 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:59:27.498 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:59:27.892 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:59:27.892 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:59:27.908 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:59:27.908 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:59:27.908 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:59:27.908 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:59:27.924 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:59:27.939 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:59:27.946 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:59:27.946 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:59:27.955 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:59:27.955 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:59:27.955 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:59:27.955 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:59:28.066 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:59:28.082 [main] TRACE - Resolving type for handle themefd26doctype
+21:59:28.191 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+21:59:28.207 [main] TRACE - Resolving type for handle ctstylesheet4257type
+21:59:28.223 [main] TRACE - Resolving type for handle ctfonts6623type
+21:59:28.223 [main] TRACE - Resolving type for handle ctfont14d8type
+21:59:28.238 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:59:28.238 [main] TRACE - Resolving type for handle ctfill550ctype
+21:59:28.247 [main] TRACE - Resolving type for handle ctborders0d66type
+21:59:28.255 [main] TRACE - Resolving type for handle ctborderf935type
+21:59:28.255 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:59:28.270 [main] TRACE - Resolving type for handle ctxf97f7type
+21:59:28.270 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:59:28.286 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:59:28.286 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:59:28.286 [main] TRACE - Resolving type for handle workbookec17doctype
+21:59:28.301 [main] TRACE - Resolving type for handle ctworkbook83c3type
+21:59:28.317 [main] TRACE - Resolving type for handle sstf81fdoctype
+21:59:28.317 [main] TRACE - Resolving type for handle ctsst44f3type
+21:59:28.317 [main] TRACE - Resolving type for handle ctsheets49fdtype
+21:59:28.333 [main] TRACE - Resolving type for handle ctsheet4dbetype
+21:59:28.333 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:59:28.349 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:59:28.349 [main] TRACE - Resolving type for handle ctworksheet530dtype
+21:59:28.364 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:59:28.364 [main] TRACE - Resolving type for handle ctcols627ctype
+21:59:28.380 [main] TRACE - Resolving type for handle stxstringf179type
+21:59:28.411 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+21:59:28.411 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+21:59:28.411 [main] TRACE - Resolving type for handle ctsheetview0f43type
+21:59:28.427 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+21:59:28.427 [main] TRACE - Resolving type for handle stref90a2type
+21:59:28.427 [main] TRACE - Resolving type for handle ctpagemargins5455type
+21:59:28.522 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+21:59:28.553 [main] TRACE - Resolving type for handle propertiesee84doctype
+21:59:28.553 [main] TRACE - Resolving type for handle ctproperties3f10type
+21:59:28.553 [main] TRACE - Resolving type for handle properties288cdoctype
+21:59:28.569 [main] TRACE - Resolving type for handle ctproperties2c18type
+21:59:28.585 [main] DEBUG - Save content types part
+21:59:28.710 [main] DEBUG - Save package relationships
+21:59:28.726 [main] DEBUG - Save part 'docProps/app.xml'
+21:59:28.726 [main] DEBUG - Save part 'docProps/core.xml'
+21:59:28.726 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:59:28.726 [main] DEBUG - Save part 'xl/styles.xml'
+21:59:28.726 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+21:59:28.741 [main] DEBUG - Save part 'xl/workbook.xml'
+21:59:28.741 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:59:28.741 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+21:59:28.757 [main] INFO  - opened be cognizant page.. 
+22:01:06.911 [main] INFO  - clicked on company header.. 
+22:01:07.088 [main] INFO  - opened be cognizant page.. 
+22:01:37.326 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:01:37.331 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:01:37.599 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+22:01:37.601 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:01:37.602 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:01:37.602 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:01:37.603 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:01:37.604 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:01:37.618 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:01:37.619 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:01:37.622 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:01:37.623 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:01:37.623 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:01:37.626 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:01:37.627 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:01:37.628 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+22:01:37.689 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+22:01:37.691 [main] TRACE - Resolving type for handle themefd26doctype
+22:01:37.766 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+22:01:37.770 [main] TRACE - Resolving type for handle ctstylesheet4257type
+22:01:37.774 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+22:01:37.781 [main] TRACE - Resolving type for handle ctfonts6623type
+22:01:37.786 [main] TRACE - Resolving type for handle ctfont14d8type
+22:01:37.790 [main] TRACE - Resolving type for handle ctfills2c6ftype
+22:01:37.793 [main] TRACE - Resolving type for handle ctfill550ctype
+22:01:37.799 [main] TRACE - Resolving type for handle ctborders0d66type
+22:01:37.801 [main] TRACE - Resolving type for handle ctborderf935type
+22:01:37.804 [main] TRACE - Resolving type for handle ctcellxfs1322type
+22:01:37.807 [main] TRACE - Resolving type for handle ctxf97f7type
+22:01:37.810 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+22:01:37.816 [main] TRACE - Resolving type for handle ctdxfsb26atype
+22:01:37.820 [main] TRACE - Resolving type for handle cttablestyles872ftype
+22:01:37.823 [main] TRACE - Resolving type for handle sstf81fdoctype
+22:01:37.828 [main] TRACE - Resolving type for handle ctsst44f3type
+22:01:37.843 [main] TRACE - Resolving type for handle workbookec17doctype
+22:01:37.851 [main] TRACE - Resolving type for handle ctworkbook83c3type
+22:01:37.855 [main] TRACE - Resolving type for handle ctsheets49fdtype
+22:01:37.857 [main] TRACE - Resolving type for handle ctsheet4dbetype
+22:01:37.861 [main] TRACE - Resolving type for handle strelationshipid1e94type
+22:01:37.866 [main] TRACE - Resolving type for handle worksheetf539doctype
+22:01:37.869 [main] TRACE - Resolving type for handle ctworksheet530dtype
+22:01:37.875 [main] TRACE - Resolving type for handle ctsheetdata8408type
+22:01:37.883 [main] TRACE - Resolving type for handle ctcols627ctype
+22:01:37.898 [main] TRACE - Resolving type for handle stxstringf179type
+22:01:37.901 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+22:01:37.904 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+22:01:37.906 [main] TRACE - Resolving type for handle ctsheetview0f43type
+22:01:37.913 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+22:01:37.916 [main] TRACE - Resolving type for handle stref90a2type
+22:01:37.917 [main] TRACE - Resolving type for handle ctpagemargins5455type
+22:01:37.957 [main] TRACE - Resolving type for handle propertiesee84doctype
+22:01:37.961 [main] TRACE - Resolving type for handle ctproperties3f10type
+22:01:37.967 [main] TRACE - Resolving type for handle properties288cdoctype
+22:01:37.968 [main] TRACE - Resolving type for handle ctproperties2c18type
+22:01:37.981 [main] DEBUG - Save content types part
+22:01:38.056 [main] DEBUG - Save package relationships
+22:01:38.062 [main] DEBUG - Save part 'docProps/app.xml'
+22:01:38.064 [main] DEBUG - Save part 'docProps/core.xml'
+22:01:38.068 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+22:01:38.068 [main] DEBUG - Save part 'xl/styles.xml'
+22:01:38.069 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+22:01:38.069 [main] DEBUG - Save part 'xl/workbook.xml'
+22:01:38.071 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+22:01:38.071 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+22:01:38.071 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+22:01:38.078 [main] INFO  - opened be cognizant page.. 
+22:02:28.000 [main] INFO  - opened be cognizant page.. 
+22:02:28.055 [main] INFO  - clicking the user icon.. 
+22:02:28.598 [main] INFO  - verifyimg the user details.. 
+09:52:07.064 [main] INFO  - opened be cognizant page.. 
+10:07:07.443 [main] INFO  - opened be cognizant page.. 
+10:07:07.810 [main] INFO  - clicking the user icon.. 
+10:07:07.920 [main] INFO  - verifyimg the user details.. 
+10:08:11.166 [main] INFO  - opened be cognizant page.. 
+10:08:11.277 [main] INFO  - clicking the user icon.. 
+10:08:11.374 [main] INFO  - verifyimg the user details.. 
+10:10:06.997 [main] INFO  - opened be cognizant page.. 
+10:11:55.207 [main] INFO  - opened be cognizant page.. 
+10:11:55.333 [main] INFO  - clicking the user icon.. 
+10:11:55.444 [main] INFO  - verifyimg the user details.. 
+10:14:27.284 [main] INFO  - opened be cognizant page.. 
+10:15:33.798 [main] INFO  - opened be cognizant page.. 
+10:15:33.929 [main] INFO  - clicking the user icon.. 
+10:15:34.043 [main] INFO  - verifyimg the user details.. 
+10:17:10.786 [main] INFO  - clicked on company header.. 
+10:17:10.993 [main] INFO  - opened be cognizant page.. 
+10:17:31.355 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:17:31.372 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:17:31.921 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:17:31.937 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:17:31.937 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:17:31.937 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:17:31.937 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:17:31.937 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:17:31.973 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:17:31.973 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:17:31.990 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:17:31.990 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:17:32.000 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:17:32.000 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:17:32.000 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:17:32.000 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:17:32.193 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:17:32.193 [main] TRACE - Resolving type for handle themefd26doctype
+10:17:32.393 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+10:17:32.409 [main] TRACE - Resolving type for handle ctstylesheet4257type
+10:17:32.424 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+10:17:32.424 [main] TRACE - Resolving type for handle ctfonts6623type
+10:17:32.440 [main] TRACE - Resolving type for handle ctfont14d8type
+10:17:32.456 [main] TRACE - Resolving type for handle ctfills2c6ftype
+10:17:32.456 [main] TRACE - Resolving type for handle ctfill550ctype
+10:17:32.456 [main] TRACE - Resolving type for handle ctborders0d66type
+10:17:32.474 [main] TRACE - Resolving type for handle ctborderf935type
+10:17:32.474 [main] TRACE - Resolving type for handle ctcellxfs1322type
+10:17:32.487 [main] TRACE - Resolving type for handle ctxf97f7type
+10:17:32.487 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+10:17:32.503 [main] TRACE - Resolving type for handle ctdxfsb26atype
+10:17:32.503 [main] TRACE - Resolving type for handle cttablestyles872ftype
+10:17:32.519 [main] TRACE - Resolving type for handle sstf81fdoctype
+10:17:32.519 [main] TRACE - Resolving type for handle ctsst44f3type
+10:17:32.550 [main] TRACE - Resolving type for handle workbookec17doctype
+10:17:32.566 [main] TRACE - Resolving type for handle ctworkbook83c3type
+10:17:32.582 [main] TRACE - Resolving type for handle ctsheets49fdtype
+10:17:32.582 [main] TRACE - Resolving type for handle ctsheet4dbetype
+10:17:32.582 [main] TRACE - Resolving type for handle strelationshipid1e94type
+10:17:32.597 [main] TRACE - Resolving type for handle worksheetf539doctype
+10:17:32.597 [main] TRACE - Resolving type for handle ctworksheet530dtype
+10:17:32.630 [main] TRACE - Resolving type for handle ctsheetdata8408type
+10:17:32.630 [main] TRACE - Resolving type for handle ctcols627ctype
+10:17:32.676 [main] TRACE - Resolving type for handle stxstringf179type
+10:17:32.692 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+10:17:32.692 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+10:17:32.707 [main] TRACE - Resolving type for handle ctsheetview0f43type
+10:17:32.723 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+10:17:32.723 [main] TRACE - Resolving type for handle stref90a2type
+10:17:32.723 [main] TRACE - Resolving type for handle ctpagemargins5455type
+10:17:32.849 [main] TRACE - Resolving type for handle propertiesee84doctype
+10:17:32.865 [main] TRACE - Resolving type for handle ctproperties3f10type
+10:17:32.875 [main] TRACE - Resolving type for handle properties288cdoctype
+10:17:32.881 [main] TRACE - Resolving type for handle ctproperties2c18type
+10:17:32.896 [main] DEBUG - Save content types part
+10:17:33.132 [main] DEBUG - Save package relationships
+10:17:33.132 [main] DEBUG - Save part 'docProps/app.xml'
+10:17:33.132 [main] DEBUG - Save part 'docProps/core.xml'
+10:17:33.148 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:17:33.148 [main] DEBUG - Save part 'xl/styles.xml'
+10:17:33.148 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+10:17:33.148 [main] DEBUG - Save part 'xl/workbook.xml'
+10:17:33.164 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:17:33.164 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+10:17:33.164 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+10:17:33.164 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+10:17:33.195 [main] INFO  - opened be cognizant page.. 
+10:18:20.285 [main] INFO  - opened be cognizant page.. 
+10:18:20.327 [main] INFO  - clicking the user icon.. 
+10:18:20.396 [main] INFO  - verifyimg the user details.. 
