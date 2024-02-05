@@ -38,7 +38,7 @@ public class HeaderPage  extends BasePage {
 		@FindBy(xpath = "//*[@id=\"spTopPlaceholder\"]/div/div[2]//div[2]/button//i")
 		WebElement dropCompany;
 		
-		@FindBy(xpath = "//*[@id=\"id__7-menu\"]/div/ul/li/div/a/div/span")
+		@FindBy(xpath = "/html/body/div[2]//ul/li")
 		List<WebElement> listCompany;
 		
 		@FindBy(xpath = "//*[@id=\"id__7-menu\"]/div/ul/li//i")

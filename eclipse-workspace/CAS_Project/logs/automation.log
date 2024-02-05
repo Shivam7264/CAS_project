@@ -295,3 +295,82 @@
 10:18:20.285 [main] INFO  - opened be cognizant page.. 
 10:18:20.327 [main] INFO  - clicking the user icon.. 
 10:18:20.396 [main] INFO  - verifyimg the user details.. 
+20:58:38.658 [main] INFO  - clicked on company header.. 
+20:58:38.845 [main] INFO  - opened be cognizant page.. 
+20:58:39.373 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:58:39.380 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:58:39.841 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+20:58:39.846 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:58:39.847 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:58:39.848 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:58:39.848 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:58:39.851 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:58:39.880 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:58:39.882 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:58:39.900 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:58:39.903 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:58:39.905 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:58:39.907 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:58:39.909 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:58:39.911 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+20:58:40.037 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+20:58:40.040 [main] TRACE - Resolving type for handle themefd26doctype
+20:58:40.193 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+20:58:40.205 [main] TRACE - Resolving type for handle ctstylesheet4257type
+20:58:40.217 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+20:58:40.225 [main] TRACE - Resolving type for handle ctfonts6623type
+20:58:40.233 [main] TRACE - Resolving type for handle ctfont14d8type
+20:58:40.247 [main] TRACE - Resolving type for handle ctfills2c6ftype
+20:58:40.253 [main] TRACE - Resolving type for handle ctfill550ctype
+20:58:40.258 [main] TRACE - Resolving type for handle ctborders0d66type
+20:58:40.264 [main] TRACE - Resolving type for handle ctborderf935type
+20:58:40.271 [main] TRACE - Resolving type for handle ctcellxfs1322type
+20:58:40.278 [main] TRACE - Resolving type for handle ctxf97f7type
+20:58:40.285 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+20:58:40.290 [main] TRACE - Resolving type for handle ctdxfsb26atype
+20:58:40.297 [main] TRACE - Resolving type for handle cttablestyles872ftype
+20:58:40.306 [main] TRACE - Resolving type for handle sstf81fdoctype
+20:58:40.315 [main] TRACE - Resolving type for handle ctsst44f3type
+20:58:40.338 [main] TRACE - Resolving type for handle workbookec17doctype
+20:58:40.348 [main] TRACE - Resolving type for handle ctworkbook83c3type
+20:58:40.359 [main] TRACE - Resolving type for handle ctsheets49fdtype
+20:58:40.364 [main] TRACE - Resolving type for handle ctsheet4dbetype
+20:58:40.368 [main] TRACE - Resolving type for handle strelationshipid1e94type
+20:58:40.373 [main] TRACE - Resolving type for handle worksheetf539doctype
+20:58:40.383 [main] TRACE - Resolving type for handle ctworksheet530dtype
+20:58:40.400 [main] TRACE - Resolving type for handle ctsheetdata8408type
+20:58:40.414 [main] TRACE - Resolving type for handle ctcols627ctype
+20:58:40.446 [main] TRACE - Resolving type for handle stxstringf179type
+20:58:40.451 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+20:58:40.455 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+20:58:40.458 [main] TRACE - Resolving type for handle ctsheetview0f43type
+20:58:40.466 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+20:58:40.470 [main] TRACE - Resolving type for handle stref90a2type
+20:58:40.475 [main] TRACE - Resolving type for handle ctpagemargins5455type
+20:58:40.480 [main] TRACE - Resolving type for handle ctrowdd39type
+20:58:40.490 [main] TRACE - Resolving type for handle ctcell842btype
+20:58:40.513 [main] TRACE - Resolving type for handle stcellrefe4e0type
+20:58:40.521 [main] TRACE - Resolving type for handle ctrsta472type
+20:58:40.527 [main] TRACE - Resolving type for handle stcelltypebf95type
+20:58:40.631 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+20:58:40.655 [main] TRACE - Resolving type for handle propertiesee84doctype
+20:58:40.657 [main] TRACE - Resolving type for handle ctproperties3f10type
+20:58:40.664 [main] TRACE - Resolving type for handle properties288cdoctype
+20:58:40.666 [main] TRACE - Resolving type for handle ctproperties2c18type
+20:58:40.687 [main] DEBUG - Save content types part
+20:58:40.784 [main] DEBUG - Save package relationships
+20:58:40.788 [main] DEBUG - Save part 'docProps/app.xml'
+20:58:40.789 [main] DEBUG - Save part 'docProps/core.xml'
+20:58:40.793 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+20:58:40.794 [main] DEBUG - Save part 'xl/styles.xml'
+20:58:40.794 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+20:58:40.795 [main] DEBUG - Save part 'xl/workbook.xml'
+20:58:40.797 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+20:58:40.798 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+20:58:40.798 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+20:58:40.798 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+20:58:40.799 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+20:58:40.808 [main] INFO  - opened be cognizant page.. 
+20:59:31.672 [main] INFO  - opened be cognizant page.. 
+20:59:31.726 [main] INFO  - clicking the user icon.. 
+20:59:31.831 [main] INFO  - verifyimg the user details.. 

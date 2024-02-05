@@ -30,7 +30,7 @@ public class HeaderCompany {
 	public void user_clicks_on_company_and_print_the_list_showing() throws IOException {
 		 BaseClass.getLogger().info("opened be cognizant page.. ");
 	    	hp=new HeaderPage(BaseClass.getDriver());
-	    	hp.printList();
+	    	//hp.printList();  this will be uncomment when you run for final 
 	}
 
 	@Then("user can hover if any list item has Triangle icon")
