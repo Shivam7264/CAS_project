@@ -15,10 +15,11 @@ public class HeaderCompany {
 	
 
 	@When("the user checks header option company has icon")
-	public void the_user_checks_header_option_company_has_icon() {
+	public void the_user_checks_header_option_company_has_icon() throws InterruptedException {
 		 BaseClass.getLogger().info("clicked on company header.. ");
 	    	hp=new HeaderPage(BaseClass.getDriver());
-	    	if(hp.checkIcon()) {
+	    	
+	    	if(hp.checkIcon1()) {
 	    	hp.clickCompany();
 	    	}
 	    	else {
@@ -30,7 +31,8 @@ public class HeaderCompany {
 	public void user_clicks_on_company_and_print_the_list_showing() throws IOException {
 		 BaseClass.getLogger().info("opened be cognizant page.. ");
 	    	hp=new HeaderPage(BaseClass.getDriver());
-	    	//hp.printList();  this will be uncomment when you run for final 
+	    	hp.printCompanyList();  //this will be uncomment when you run for final 
+	    	
 	}
 
 	@Then("user can hover if any list item has Triangle icon")

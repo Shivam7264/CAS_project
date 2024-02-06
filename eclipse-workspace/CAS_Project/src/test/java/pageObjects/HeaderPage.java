@@ -16,10 +16,11 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import factory.BaseClass;
 import utilities.WriteData;
 
 public class HeaderPage  extends BasePage {
-	
+	BaseClass base=new BaseClass();
 	public HeaderPage (WebDriver driver) {
 		super(driver);
 	}
@@ -34,18 +35,31 @@ public class HeaderPage  extends BasePage {
 		//*[@id="spTopPlaceholder"]/div/div[2]//div[2]/button
 		@FindBy(xpath = "//*[@id=\"spTopPlaceholder\"]//div[2]/button")
 		WebElement btnCompany;
+		@FindBy(xpath = "//*[@type='button' and @name='Service Lines']")
+		WebElement btnService;
 		
 		@FindBy(xpath = "//*[@id=\"spTopPlaceholder\"]/div/div[2]//div[2]/button//i")
 		WebElement dropCompany;
 		
 		@FindBy(xpath = "/html/body/div[2]//ul/li")
-		List<WebElement> listCompany;
+		List<WebElement> listHeader;
 		
-		@FindBy(xpath = "//*[@id=\"id__7-menu\"]/div/ul/li//i")
+//		@FindBy(xpath = "/html/body/div[2]//ul/li/div/a/div/span")
+//		List<WebElement> listService;
+		
+		@FindBy(xpath = "/html/body//ul/li/div/a/div/i")
+		List<WebElement> listOfIconelements;
+		
+		@FindBy(xpath = "/html/body/div[2]//ul/li//i")
 		List<WebElement> listCompany2;
 		
 		@FindBy(xpath ="//*[@id=\"spTopPlaceholder\"]/div/div[2]//div[1]/a")
 		WebElement beCognizant;
+		
+		@FindBy(xpath = "//*[@type='button' and @name='Service Lines']//i")
+		WebElement dropService;
+		
+		
 		//methods
 		public void clickBtn() {
 			WebDriverWait wait =new WebDriverWait(driver,Duration.ofSeconds(30));
@@ -78,27 +92,43 @@ public class HeaderPage  extends BasePage {
 			js.executeScript("arguments[0].click();", btnCompany);
 		}
 		
-		
-		public Boolean checkIcon() {
-		    try {
-		        return dropCompany.isDisplayed();
-		    } catch (NoSuchElementException | StaleElementReferenceException | NullPointerException e) {
-		        // Handle the exception, log it, or perform any necessary actions
-		        return false;
-		    }
+		public void clickService() {
+			JavascriptExecutor js=(JavascriptExecutor)driver;
+			js.executeScript("arguments[0].click();", btnService);
 		}
 		
-		public  void printList() throws IOException {
-			List<String> ls=new ArrayList<>();
+		public Boolean checkIcon1() {
+		
+			return 	base.checkIcon(dropCompany);
+		
+		}
+		
+		public Boolean checkIcon2() {
 			
-			for(WebElement ele:listCompany) {
-				ls.add(ele.getText());
+			return 	base.checkIcon(dropService);
+		
+		}
+		
+		
+		public  void printCompanyList() throws IOException {
 			
+			base.printList(listHeader);
+		}
+		
+		public  void printServiceList() throws IOException {
+			base.printList(listHeader);
+		}
+		
+		public void hoverOnServiceListItems() throws IOException {
+			
+			for(WebElement ele:listOfIconelements) {
+				Actions act=new Actions(driver);
+				act.moveToElement(ele).perform();
+				List<WebElement> list3=driver.findElements(By.xpath("//div[starts-with(@id,'ContextualMenu')]/div/ul/li"));
+				base.printList(list3);
+				
 			}
-			WriteData data =new WriteData();
-			data.writeData(ls);
 		}
-		
 		public void checkIconPresent(List<WebElement> ele) {
 		    for (WebElement element : ele) {
 		        try {

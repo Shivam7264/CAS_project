@@ -27,10 +27,11 @@ public class Hooks {
     	    	
     	p=BaseClass.getProperties();
     	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+    	
     	driver.get(p.getProperty("appURL"));
     	
     	
-    	 BaseClass.login();
+    	// BaseClass.login1();//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>uncomment  when login required
     	driver.manage().window().maximize();
     	Thread.sleep(5000);
        
