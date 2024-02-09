@@ -33,6 +33,8 @@ public class BaseClass {
 	     static Properties p;
 	     static Logger logger;
 	  	     
+	
+
 	public static WebDriver initilizeBrowser() throws IOException
 	{
 		if(getProperties().getProperty("execution_env").equalsIgnoreCase("remote"))
@@ -184,8 +186,6 @@ public class BaseClass {
 		List<String> ls=new ArrayList<>();
 		int i=0;
 		for(WebElement ele:list) {
-			
-			System.out.println(i+". "+"list");
 			System.out.println(ele.getText());
 			ls.add(ele.getText());
 		i++;

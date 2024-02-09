@@ -1,4 +1,4 @@
-Feature: header features validation
+Feature: Company header features validation
 
   @sanity
   Scenario: validation of company header
