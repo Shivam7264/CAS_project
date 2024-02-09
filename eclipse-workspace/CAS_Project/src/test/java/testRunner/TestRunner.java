@@ -8,11 +8,11 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 					//features= {".//Features/"},
-					//features= {".//Features/login.feature"},
+					features= {".//Features/ServiceLines.feature"},
 					
-					features= {".//Features/login.feature",".//Features/header.feature"},
+					//features= {".//Features/login.feature",".//Features/header.feature"},
 					//features= {"@target/rerun.txt"},
-					glue="stepDefinitions",
+					glue= "stepDefinitions",
 					plugin= {"pretty", "html:reports/myreport.html", 
 							  "rerun:target/rerun.txt",
 							  "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"

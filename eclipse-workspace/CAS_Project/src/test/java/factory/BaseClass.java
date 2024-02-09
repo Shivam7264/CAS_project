@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
@@ -24,12 +25,16 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import utilities.WriteData;
+
 public class BaseClass {
 
 		 static WebDriver driver;
 	     static Properties p;
 	     static Logger logger;
 	  	     
+	
+
 	public static WebDriver initilizeBrowser() throws IOException
 	{
 		if(getProperties().getProperty("execution_env").equalsIgnoreCase("remote"))
@@ -75,8 +80,8 @@ public class BaseClass {
 				}
 			}
 		 driver.manage().deleteAllCookies(); 
-		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(40));
-		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(70));
+		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(40));
 		 
 		 return driver;
 		 
@@ -85,6 +90,35 @@ public class BaseClass {
 	public static WebDriver getDriver() {
 			return driver;
 		}
+	public static void login1() throws InterruptedException, IOException {
+		 WebElement passwordInput = new WebDriverWait(driver, Duration.ofSeconds(30))
+		            .until(ExpectedConditions.presenceOfElementLocated(By.id("i0118")));
+		   p=BaseClass.getProperties();
+		  String pwd= p.getProperty("password");
+		    passwordInput.sendKeys(pwd);
+
+		    Thread.sleep(5000);
+		    WebElement bt2=driver.findElement(By.id("idSIButton9"));
+	    	JavascriptExecutor js1=(JavascriptExecutor)driver;
+	    	js1.executeScript("arguments[0].click();", bt2);
+		    
+
+		    Thread.sleep(5000);
+
+		    // Check if the "Back" button is present before clicking
+		    WebElement backButton = null;
+		    try {
+		        backButton = new WebDriverWait(driver, Duration.ofSeconds(10))
+		                .until(ExpectedConditions.presenceOfElementLocated(By.id("idBtn_Back")));
+		    } catch (Exception e) {
+		        System.out.println("Back button not found. Skipping the click.");
+		    }
+
+		    if (backButton != null) {
+		        backButton.click();
+		    }
+		    Thread.sleep(10000);
+	}
 	public static void login() throws InterruptedException, IOException {
 	    WebElement usernameInput = new WebDriverWait(driver, Duration.ofSeconds(20))
 	            .until(ExpectedConditions.presenceOfElementLocated(By.id("i0116")));
@@ -139,6 +173,26 @@ public class BaseClass {
 		return logger;
 	}
 	
+	public Boolean checkIcon(WebElement ele) {
+	    try {
+	        return ele.isDisplayed();
+	    } catch (NoSuchElementException | StaleElementReferenceException | NullPointerException e) {
+	        // Handle the exception, log it, or perform any necessary actions
+	        return false;
+	    }
+	}
 	
+	public  void printList(List<WebElement> list) throws IOException {
+		List<String> ls=new ArrayList<>();
+		int i=0;
+		for(WebElement ele:list) {
+			System.out.println(ele.getText());
+			ls.add(ele.getText());
+		i++;
+		}
+//		WriteData data =new WriteData();
+//		data.writeData(ls);
+		//uncomment to store in excel sheet>>>>>>>>>>>>>>>>>>>>>
+	}
 	
 }
